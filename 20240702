@@ -1,0 +1,9 @@
+# 营会 列表分页
+
+# 营会 详情
+
+# 微信用户信息更新
+- 相关文档 https://developers.weixin.qq.com/miniprogram/dev/api/open-api/user-info/UserInfo.html
+- 获取userInfo、补充user字段
+- 参数 rawData、signature、encryptedData、iv
+- 返回 成功/失败状态
